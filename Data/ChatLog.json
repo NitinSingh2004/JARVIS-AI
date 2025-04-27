@@ -1,0 +1,538 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nitin! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "what the date today"
+    },
+    {
+        "role": "assistant",
+        "content": "The date today is March 10, 2025."
+    },
+    {
+        "role": "user",
+        "content": "what the current time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 17:39:33."
+    },
+    {
+        "role": "user",
+        "content": "who is bill gates"
+    },
+    {
+        "role": "assistant",
+        "content": "Bill Gates is an American business magnate, software developer, and philanthropist. He is best known for co-founding Microsoft Corporation, the world's largest software company, with Paul Allen."
+    },
+    {
+        "role": "user",
+        "content": "who invent python"
+    },
+    {
+        "role": "assistant",
+        "content": "Guido van Rossum invented Python."
+    },
+    {
+        "role": "user",
+        "content": "who is tony stark"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark, also known as Iron Man, is a fictional character and a superhero in the Marvel Cinematic Universe. He is a billionaire inventor, industrialist, and philanthropist who creates a powered exoskeleton suit to save his life and later uses it to fight crime and protect the world."
+    },
+    {
+        "role": "user",
+        "content": "who is nitin"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Nitin Singh, the person I'm currently chatting with!"
+    },
+    {
+        "role": "user",
+        "content": "what is current time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 18:22:57."
+    },
+    {
+        "role": "user",
+        "content": " who is glenn phillips"
+    },
+    {
+        "role": "assistant",
+        "content": "Glenn Phillips is a New Zealand cricketer who plays as a wicket-keeper-batsman for the New Zealand national team."
+    },
+    {
+        "role": "user",
+        "content": "what my age"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information. You didn't provide me with your birthdate, so I can't calculate your age."
+    },
+    {
+        "role": "user",
+        "content": "my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Nitin Singh."
+    },
+    {
+        "role": "user",
+        "content": "what is the stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Apple (AAPL) is $227.48."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Apple (AAPL) is $227.33."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Apple (AAPL) is $227.48."
+    },
+    {
+        "role": "user",
+        "content": "& \"E:/jarvis ai/.venv/Scripts/python.exe\" \"e:/jarvis ai/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This is a command to run a Python script named `Chatbot.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Apple (AAPL) is $227.48."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Apple (AAPL) is $235.54."
+    },
+    {
+        "role": "user",
+        "content": "stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Apple (AAPL) is $235.27."
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Tata Motors Limited (TATA) is \u20b9639.65."
+    },
+    {
+        "role": "user",
+        "content": "& \"E:/jarvis ai/.venv/Scripts/python.exe\" \"e:/jarvis ai/Backend/RealtimeSearchEngine.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This is a command to run a Python script named `RealtimeSearchEngine.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory."
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Tata Motors Limited (TATA) is \u20b9646.83."
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata motors"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of Tata Motors Limited (TATA) is \u20b9640.00."
+    },
+    {
+        "role": "user",
+        "content": "stock price of boat"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of BOAT (Imagine Marketing) is \u20b91659 per share."
+    },
+    {
+        "role": "user",
+        "content": "& \"E:/jarvis ai/.venv/Scripts/python.exe\" \"e:/jarvis ai/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This is a command to run a Python script named `Chatbot.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory."
+    },
+    {
+        "role": "user",
+        "content": "stock price of boat"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of BOAT (Imagine Marketing) is \u20b91675 per share."
+    },
+    {
+        "role": "user",
+        "content": "stock price of boat"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the stock price of BOAT (Imagine Marketing) is \u20b91675 per share."
+    },
+    {
+        "role": "user",
+        "content": "giFile \"e:\\jarvis ai\\Backend\\Automation.py\", line 255, in <module>"
+    },
+    {
+        "role": "assistant",
+        "content": "This is an error message indicating that there is an issue on line 255 of the `Automation.py` file located in the `E:\\jarvis ai\\Backend\\` directory."
+    },
+    {
+        "role": "user",
+        "content": "    asyncio.run(Automation([\"open youtube\"]))"
+    },
+    {
+        "role": "assistant",
+        "content": "This is a code snippet that runs the `Automation` function with the argument `[\"open youtube\"]` using the `asyncio.run` method. The `Automation` function is likely responsible for automating a task, in this case, opening YouTube."
+    },
+    {
+        "role": "user",
+        "content": "    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    {
+        "role": "assistant",
+        "content": "This is a continuation of the error message, highlighting the specific code that is causing the issue."
+    },
+    {
+        "role": "user",
+        "content": "  File \"C:\\Program Files\\Python313\\Lib\\asyncio\\runners.py\", line 195, in run"
+    },
+    {
+        "role": "assistant",
+        "content": "This is an error message indicating that the issue is occurring in the `runners.py` file, specifically on line 195, within the `asyncio` module."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nitin!"
+    },
+    {
+        "role": "user",
+        "content": "give me the weather detail"
+    },
+    {
+        "role": "assistant",
+        "content": "As of now, the weather is mostly cloudy with a temperature of 22\u00b0C (72\u00b0F) and a humidity of 68%. There's a gentle breeze blowing at 17 km/h (10 mph)."
+    },
+    {
+        "role": "user",
+        "content": "& \"E:/jarvis ai/.venv/Scripts/python.exe\" \"e:/jarvis ai/Backend/Automation.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This is a command to run a Python script named `Automation.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory."
+    },
+    {
+        "role": "user",
+        "content": "I am this alone smile."
+    },
+    {
+        "role": "assistant",
+        "content": "I see what you did there!"
+    },
+    {
+        "role": "user",
+        "content": "I am this alone smile."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referencing the song \"I'm Just a Lonely Boy\" by Paul Anka!"
+    },
+    {
+        "role": "user",
+        "content": "Temperature right now."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current temperature is 69\u00b0F (21\u00b0C) and it's sunny with a RealFeel of 72\u00b0F (22\u00b0C)."
+    },
+    {
+        "role": "user",
+        "content": "What is the weather at eden gardens stadium?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current weather at Eden Gardens Stadium is 75\u00b0F (24\u00b0C) with a RealFeel of 74\u00b0F (23\u00b0C) and a gentle breeze blowing at 8 mph (13 km/h)."
+    },
+    {
+        "role": "user",
+        "content": "This is narendra modi."
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Damodardas Modi is an Indian politician who has served as the 14th Prime Minister of India since 2014."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nitin!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, Nitin! I'm a large language model, so I don't have feelings like humans do, but I'm functioning properly and ready to assist you with any questions or tasks you may have."
+    },
+    {
+        "role": "user",
+        "content": "What's my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information. You didn't provide me with your birthdate, so I can't calculate your age."
+    },
+    {
+        "role": "user",
+        "content": "Today ipl match result."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, SRH won by 44 runs against RR in today's IPL match. The score was SRH 286/4 and RR 242/6."
+    },
+    {
+        "role": "user",
+        "content": "Who has the most runs in ipl?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, Virat Kohli holds the record for the most runs scored in the Indian Premier League (IPL) with a total of 8063 runs."
+    },
+    {
+        "role": "user",
+        "content": "If there is a match between chennai and bangalore who will win?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the head-to-head records, Chennai Super Kings (CSK) have dominated the rivalry with Royal Challengers Bangalore (RCB), winning 21 out of 33 matches. So, based on past performance, CSK might have an edge in this match."
+    },
+    {
+        "role": "user",
+        "content": "Sole."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to the sole of a shoe!"
+    },
+    {
+        "role": "user",
+        "content": "From your heart."
+    },
+    {
+        "role": "assistant",
+        "content": "From the heart, I wish you all the best, Nitin!"
+    },
+    {
+        "role": "user",
+        "content": "whats my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Nitin Singh."
+    },
+    {
+        "role": "user",
+        "content": "what your name"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Buddy!"
+    },
+    {
+        "role": "user",
+        "content": "whats my age"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't know your age, Nitin. You didn't provide me with your birthdate, so I can't calculate your age."
+    },
+    {
+        "role": "user",
+        "content": "my date of birth is 13 april 2004"
+    },
+    {
+        "role": "assistant",
+        "content": "Nitin, based on your birthdate, April 13, 2004, you are currently 21 years old."
+    },
+    {
+        "role": "user",
+        "content": "whats my age"
+    },
+    {
+        "role": "assistant",
+        "content": "Nitin, you are 21 years old."
+    },
+    {
+        "role": "user",
+        "content": "who is carry"
+    },
+    {
+        "role": "assistant",
+        "content": "You're likely referring to CarryMinati, a popular Indian YouTuber and streamer known for his gaming content and commentary!"
+    },
+    {
+        "role": "user",
+        "content": "yes"
+    },
+    {
+        "role": "assistant",
+        "content": "CarryMinati, whose real name is Ajey Nagar, is a well-known Indian YouTuber and streamer. He primarily creates gaming content, often focusing on FPS games like Call of Duty and Apex Legends, and is also known for his roast and commentary videos."
+    },
+    {
+        "role": "user",
+        "content": "& \"E:/jarvis ai/.venv/Scripts/python.exe\" \"e:/jarvis ai/main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This is a command to run a Python script named `main.py` located in the `E:/jarvis ai/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory."
+    },
+    {
+        "role": "user",
+        "content": "& \"E:/jarvis ai/.venv/Scripts/python.exe\" \"e:/jarvis ai/main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This is a command to run a Python script named `main.py` located in the `E:/jarvis ai/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory."
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Buddy, your friendly AI chatbot! I'm here to help answer your questions, provide information, and engage in fun conversations. I'm constantly learning and improving to better assist you."
+    },
+    {
+        "role": "user",
+        "content": "Temperature in chandigarh today."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current temperature in Chandigarh is 96\u00b0F (35.6\u00b0C) with hazy sunshine and a RealFeel of 98\u00b0F (36.7\u00b0C)."
+    },
+    {
+        "role": "user",
+        "content": "Generate image."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to generate images. However, I can provide you with text-based descriptions or ASCII art if that's what you're looking for!"
+    },
+    {
+        "role": "user",
+        "content": "Hundred image of narendra modi."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to generate or display images. However, I can provide you with information about Narendra Modi, the 14th Prime Minister of India. If you're looking for images of him, I suggest searching online for \"Narendra Modi images\" or \"Narendra Modi photos\" to find relevant results."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Nitin!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, Nitin! I'm a large language model, so I don't have feelings like humans do, but I'm functioning properly and ready to assist you with any questions or tasks you may have."
+    },
+    {
+        "role": "user",
+        "content": "Stock price of tesla."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current stock price of Tesla (TSLA) is $267.28."
+    },
+    {
+        "role": "user",
+        "content": "I am the best company then invest."
+    },
+    {
+        "role": "assistant",
+        "content": "You're looking to invest in a company. Based on current market trends and performance, some of the top companies to consider investing in are:\n\n1. Amazon (AMZN) - A leader in e-commerce and cloud computing.\n2. Microsoft (MSFT) - A dominant player in software and technology.\n3. Alphabet (GOOGL) - The parent company of Google, a leader in search and online advertising.\n4. Johnson & Johnson (JNJ) - A well-established healthcare company with a diverse portfolio.\n5. Procter & Gamble (PG) - A consumer goods company with a strong brand portfolio.\n\nPlease keep in mind that investing in the stock market involves risk, and it's essential to do your research and consider your financial goals before making any investment decisions.\n\nWould you like more information on a specific company or industry?"
+    },
+    {
+        "role": "user",
+        "content": "Give information."
+    },
+    {
+        "role": "assistant",
+        "content": "Here's some general information:\n\n**Top News:**\n\n* The global economy is slowly recovering from the pandemic-induced recession.\n* Central banks are maintaining a accommodative monetary policy to support growth.\n* Technology and healthcare sectors are expected to drive growth in the coming years.\n\n**Market Updates:**\n\n* The S&P 500 index is trading at 4,230, up 1.2% from yesterday's close.\n* The Dow Jones Industrial Average is at 34,550, up 1.1% from yesterday's close.\n* The NASDAQ Composite is at 13,900, up 1.5% from yesterday's close.\n\n**Currency Updates:**\n\n* The US dollar is trading at 1.21 against the euro.\n* The Japanese yen is trading at 109.50 against the US dollar.\n* The British pound is trading at 1.38 against the US dollar.\n\n**Commodity Updates:**\n\n* Crude oil is trading at $65.50 per barrel, up 1.2% from yesterday's close.\n* Gold is trading at $1,850 per ounce, up 0.5% from yesterday's close.\n\nPlease let me know if you'd like more specific information on a particular topic or industry!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you, Nitin! Have a great day and feel free to reach out if you have any more questions or need assistance in the future. Bye for now!"
+    },
+    {
+        "role": "user",
+        "content": "Temperature in chandigarh."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, the current temperature in Chandigarh is 108\u00b0F (42.2\u00b0C) with hazy sunshine and a RealFeel of 110\u00b0F (43.3\u00b0C)."
+    },
+    {
+        "role": "user",
+        "content": "What's the weather today?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest information, today's weather is mostly sunny with a high of 107\u00b0F (41.7\u00b0C) and a low of 75\u00b0F (23.9\u00b0C) in Mohali, Punjab, India."
+    }
+]

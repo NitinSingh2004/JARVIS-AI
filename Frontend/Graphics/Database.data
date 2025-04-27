@@ -1,0 +1,66 @@
+Nitin Singh : hello
+Jarvis : Hello Nitin! It's nice to meet you. How can I assist you today?
+Nitin Singh : what the date today
+Jarvis : The date today is March 10, 2025.
+Nitin Singh : what the current time
+Jarvis : The current time is 17:39:33.
+Nitin Singh : who is bill gates
+Jarvis : Bill Gates is an American business magnate, software developer, and philanthropist. He is best known for co-founding Microsoft Corporation, the world's largest software company, with Paul Allen.
+Nitin Singh : who invent python
+Jarvis : Guido van Rossum invented Python.
+Nitin Singh : who is tony stark
+Jarvis : Tony Stark, also known as Iron Man, is a fictional character and a superhero in the Marvel Cinematic Universe. He is a billionaire inventor, industrialist, and philanthropist who creates a powered exoskeleton suit to save his life and later uses it to fight crime and protect the world.
+Nitin Singh : who is nitin
+Jarvis : You are Nitin Singh, the person I'm currently chatting with!
+Nitin Singh : what is current time
+Jarvis : The current time is 18:22:57.
+Nitin Singh :  who is glenn phillips
+Jarvis : Glenn Phillips is a New Zealand cricketer who plays as a wicket-keeper-batsman for the New Zealand national team.
+Nitin Singh : what my age
+Jarvis : I don't have that information. You didn't provide me with your birthdate, so I can't calculate your age.
+Nitin Singh : my name
+Jarvis : Your name is Nitin Singh.
+Nitin Singh : what is the stock price of apple
+Jarvis : According to the latest information, the stock price of Apple (AAPL) is $227.48.
+Nitin Singh : stock price of apple
+Jarvis : According to the latest information, the stock price of Apple (AAPL) is $227.33.
+Nitin Singh : stock price of apple
+Jarvis : According to the latest information, the stock price of Apple (AAPL) is $227.48.
+Nitin Singh : & "E:/jarvis ai/.venv/Scripts/python.exe" "e:/jarvis ai/Backend/Chatbot.py"
+Jarvis : This is a command to run a Python script named `Chatbot.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory.
+Nitin Singh : stock price of apple
+Jarvis : According to the latest information, the stock price of Apple (AAPL) is $227.48.
+Nitin Singh : stock price of apple
+Jarvis : According to the latest information, the stock price of Apple (AAPL) is $235.54.
+Nitin Singh : stock price of apple
+Jarvis : According to the latest information, the stock price of Apple (AAPL) is $235.27.
+Nitin Singh : stock price of tata
+Jarvis : According to the latest information, the stock price of Tata Motors Limited (TATA) is ₹639.65.
+Nitin Singh : & "E:/jarvis ai/.venv/Scripts/python.exe" "e:/jarvis ai/Backend/RealtimeSearchEngine.py"
+Jarvis : This is a command to run a Python script named `RealtimeSearchEngine.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory.
+Nitin Singh : stock price of tata
+Jarvis : According to the latest information, the stock price of Tata Motors Limited (TATA) is ₹646.83.
+Nitin Singh : stock price of tata motors
+Jarvis : According to the latest information, the stock price of Tata Motors Limited (TATA) is ₹640.00.
+Nitin Singh : stock price of boat
+Jarvis : According to the latest information, the stock price of BOAT (Imagine Marketing) is ₹1659 per share.
+Nitin Singh : & "E:/jarvis ai/.venv/Scripts/python.exe" "e:/jarvis ai/Backend/Chatbot.py"
+Jarvis : This is a command to run a Python script named `Chatbot.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory.
+Nitin Singh : stock price of boat
+Jarvis : According to the latest information, the stock price of BOAT (Imagine Marketing) is ₹1675 per share.
+Nitin Singh : stock price of boat
+Jarvis : According to the latest information, the stock price of BOAT (Imagine Marketing) is ₹1675 per share.
+Nitin Singh : giFile "e:\jarvis ai\Backend\Automation.py", line 255, in <module>
+Jarvis : This is an error message indicating that there is an issue on line 255 of the `Automation.py` file located in the `E:\jarvis ai\Backend\` directory.
+Nitin Singh :     asyncio.run(Automation(["open youtube"]))
+Jarvis : This is a code snippet that runs the `Automation` function with the argument `["open youtube"]` using the `asyncio.run` method. The `Automation` function is likely responsible for automating a task, in this case, opening YouTube.
+Nitin Singh :     ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Jarvis : This is a continuation of the error message, highlighting the specific code that is causing the issue.
+Nitin Singh :   File "C:\Program Files\Python313\Lib\asyncio\runners.py", line 195, in run
+Jarvis : This is an error message indicating that the issue is occurring in the `runners.py` file, specifically on line 195, within the `asyncio` module.
+Nitin Singh : hello
+Jarvis : Hello Nitin!
+Nitin Singh : give me the weather detail
+Jarvis : As of now, the weather is mostly cloudy with a temperature of 22°C (72°F) and a humidity of 68%. There's a gentle breeze blowing at 17 km/h (10 mph).
+Nitin Singh : & "E:/jarvis ai/.venv/Scripts/python.exe" "e:/jarvis ai/Backend/Automation.py"
+Jarvis : This is a command to run a Python script named `Automation.py` located in the `E:/jarvis ai/Backend/` directory using the Python executable located in the `E:/jarvis ai/.venv/Scripts/` directory.
